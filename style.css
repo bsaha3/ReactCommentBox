@@ -1,0 +1,26 @@
+body{
+    
+}
+
+.comment{
+    background-color: #C0D9EF;
+}
+
+#content{
+    margin:300px;
+    margin-top: 50px;
+}
+
+#like:hover, #liked:hover{
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#liked{
+    color: blue;
+}
+
+#like{
+    color:black;
+}
